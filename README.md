@@ -8,6 +8,7 @@
 
 ## Objetivos
 1° - Confirmar a hipótese "Imóveis protegem contra a inflação"
+
 2° - Previsão do valor patrimonial mínimo (valor venal) de imóveis na cidade de São Paulo.
 
 ## Fonte dos Dados
