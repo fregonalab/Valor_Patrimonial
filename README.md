@@ -12,13 +12,15 @@
 2° - Previsão do valor patrimonial mínimo (valor venal) de imóveis na cidade de São Paulo.
 
 ## Fonte dos Dados
-O banco de dados foi obtido do novo sistema integrado da cidade de São Paulo, o GeoSampa ( ).
+O banco de dados foi obtido do novo sistema integrado da cidade de São Paulo, o GeoSampa.
 
 ## Data Understanding
 Obtenção dos dados por webscraping de arquivos .csv da API GeoSampa utilizando as libs request, selenium, pandas, e glob.
+
 Arquivo: data_extracting.ipynb.
 
 Análise de proporção, e testes de hipóteses para a confirmação da hipótese levantada no item 1 da seção "Objetivos" utilizando as libs pandas e scipy.stats. 
+
 Arquivo: projeto_parte2.ipynb (em produção).
 
 ## Resultados e Conclusões
